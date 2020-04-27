@@ -1,0 +1,14 @@
+// colors
+$colorWhite:#ffffff;
+$colorBlack:#333333;
+$colorGray:#dae6f3;
+$colorRed:#ff0000;
+// variables
+$headerHight: 60px;
+$gutter:15px;
+
+@mixin transitionMove() {
+    transition: all 0.2s linear;
+}
+
+
